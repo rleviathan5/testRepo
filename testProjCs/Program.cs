@@ -14,6 +14,7 @@ namespace testProjCs
             Application.Run(new Form1());
 
             Console.WriteLine("Hello world!");
+            Console.WriteLine("This was added from visual studio");
         }
     }
 }
