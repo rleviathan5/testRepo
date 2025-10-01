@@ -15,6 +15,7 @@ namespace testProjCs
 
             Console.WriteLine("Hello world!");
             Console.WriteLine("This was added from visual studio");
+            Console.WriteLine("This line was added to show the staging area");
         }
     }
 }
